@@ -5,23 +5,9 @@ Secure Coding
 ## Agenda
 
 
- * 2 days
+ *  **Introducing AI for Cybersecurity** 
+ *  **Demo** 
 
- *  **Day 1 (Introducing Security)** 
-
-     - Security Intro
-
-     - Attacks and Defenses
-
-     - REST security     
-
- *  **Day 2 (Secure Coding)** 
-
-     - Java Security
-
-     - JavaScript Security
-
-     - Securing Resources
      
 Notes: 
 
@@ -80,7 +66,7 @@ Notes:
 
  * Where is the ANY key?
 
-![](../images/any-key.png) <!-- {"left" : 1.63, "top" : 2.83, "height" : 4.26, "width" : 5.29} -->
+![](../../about/images/any-key.png) <!-- {"left" : 1.63, "top" : 2.83, "height" : 4.26, "width" : 5.29} -->
 
 
 Notes: 
@@ -92,7 +78,7 @@ Notes:
 ## Analogy: Learning To Fly…
 
 
-![](../images/learn-to-fly.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
+![](../../about/images/learn-to-fly.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
 
 
 Notes: 
@@ -104,7 +90,7 @@ Notes:
 ## Instruction
 
 
-![](../images/classroom-instruction.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
+![](../../about//images/classroom-instruction.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
 
 Notes: 
 
@@ -116,7 +102,7 @@ http://aviation-schools.regionaldirectory.us/learn-to-fly-720.jpg
 
 ## + Flight Time
 
-![](../images/cockpit.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
+![](../../about//images/cockpit.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
 
 Notes: 
 
@@ -128,7 +114,7 @@ http://www.wikihow.com/Become-a-Certified-Flight-Instructor
 
 ## This Will Take A Lot Of Practice 
 
-![](../images/practice.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
+![](../../about//images/practice.png)  <!-- {"left" : 0.26, "top" : 0.9, "height" : 6.17, "width" : 9.74} -->
 
 
 Notes: 
@@ -152,13 +138,13 @@ Notes:
 
      - Technologies you are familiar with
 
-     - Familiarity with security? (scale of 1 – 4:  1 – new,   4 – expert)
+     - Familiarity with AI? Cybersecurity? (scale of 1 – 4:  1 – new,   4 – expert)
 
      - Something non-technical about you!(favorite ice cream flavor / hobby…)
 
-![](../images/ice-cream.png)  <!-- {"left" : 0.67, "top" : 5.51, "height" : 1.73, "width" : 2.33} -->
+![](../../about//images/ice-cream.png)  <!-- {"left" : 0.67, "top" : 5.51, "height" : 1.73, "width" : 2.33} -->
 
-![](../images/hiking.png)   <!-- {"left" : 3.60, "top" : 5.51, "height" : 1.73, "width" : 2.33} -->
+![](../../about//images/hiking.png)   <!-- {"left" : 3.60, "top" : 5.51, "height" : 1.73, "width" : 2.33} -->
  
 
 Notes: 

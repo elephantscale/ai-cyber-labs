@@ -6,19 +6,17 @@ Security Intro
 ## Personal Story
 * Hacker comes to town!
 * Jeremiah Grossman
+* Grossman's Lessons
+  - Make life (work) harder for hackers
+  - And they will go elsewhere
 
-## Grossman's Lessons
-
-* Make life (work) harder for hackers
-* And they will go elsewhere
-
-## Interesting Resources
-
-* YouTube
-* "How to be a f^&*cking freedom fighter and stay out of jail"
+* You are up against this:
+* "D1T3 - The Grugq - OPSEC: Because Jail is for wuftpd"
   - Because jail is for suckers
+  - https://www.youtube.com/watch?v=9XaYdCdwiWU
+
  
-## Practically
+## Practical Defences
 
 * You could do this:
 * Validate all inputs
