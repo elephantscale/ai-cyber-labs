@@ -16,7 +16,7 @@ Security Intro
   - https://www.youtube.com/watch?v=9XaYdCdwiWU
 
  
-## Practical Defences
+## Practical Defenses
 
 * You could do this:
 * Validate all inputs
